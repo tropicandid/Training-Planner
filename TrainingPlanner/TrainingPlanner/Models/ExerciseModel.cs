@@ -12,7 +12,7 @@ namespace TrainingPlanner.Models
     public string Name { get; set; }
     public string Description { get; set; }
     public List<Image> Photos { get; set; }
-    public Tags Tags { get; set; }
+    public ExerciseTags Tags { get; set; }
 
   }
 }
