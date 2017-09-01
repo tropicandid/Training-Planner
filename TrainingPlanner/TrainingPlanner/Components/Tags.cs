@@ -6,9 +6,14 @@ using System.Threading.Tasks;
 
 namespace TrainingPlanner.Components
 {
-  public class Tags
+  public class ExerciseTags
   {
-    public ExerciseTagTypes ExerciseTags { get; set; }
+    public ExerciseTagTypes AllExerciseTags { get; set; }
+  }
+
+  public class WorkoutTags
+  {
+    
   }
   public enum ExerciseTagTypes
   {
