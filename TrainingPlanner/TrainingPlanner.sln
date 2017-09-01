@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingPlanner", "TrainingPlanner\TrainingPlanner.csproj", "{DB54E66B-D8A7-4F86-9F3A-06D6FCAF7BE7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{C2ECF336-8792-4458-8A93-F9B947313814}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB54E66B-D8A7-4F86-9F3A-06D6FCAF7BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB54E66B-D8A7-4F86-9F3A-06D6FCAF7BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB54E66B-D8A7-4F86-9F3A-06D6FCAF7BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB54E66B-D8A7-4F86-9F3A-06D6FCAF7BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
