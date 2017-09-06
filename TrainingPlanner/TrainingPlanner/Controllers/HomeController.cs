@@ -26,5 +26,12 @@ namespace TrainingPlanner.Controllers
 
       return View();
     }
+
+    public ActionResult Exercise()
+    {
+      ViewBag.Message = "Your contact page.";
+
+      return View();
+    }
   }
 }
